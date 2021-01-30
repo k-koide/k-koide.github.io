@@ -221,14 +221,24 @@ div {
   width: 40%;
 }
 
-.work .pic2 img:hover {
-  background-color: #656074;
-}
-
 .work .text {
   padding: 0;
   position: absolute;
   top: 80%;
+}
+
+.work .link {
+  padding: 0;
+  position: absolute;
+  top: 85%;
+}
+
+.work .link a {
+  color: white;
+}
+
+.work .link a:hover {
+  color: #574883;
 }
 
 .contact .text a {
